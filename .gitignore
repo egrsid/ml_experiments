@@ -1,0 +1,6 @@
+*.mp4
+*.jpg
+DataBases/
+Models
+opencv-4.x/
+__pycache__/
