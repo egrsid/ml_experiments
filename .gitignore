@@ -4,3 +4,4 @@ DataBases/
 Models
 opencv-4.x/
 __pycache__/
+.vscode/
