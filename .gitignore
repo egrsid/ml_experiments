@@ -1,7 +1,10 @@
 *.mp4
 *.jpg
 DataBases/
-Models
-opencv-4.x/
-__pycache__/
+Models/
 .vscode/
+DAILY_WORK/text_project/vectorizers/
+DAILY_WORK/text_project/fitted_models/
+DAILY_WORK/text_project/reports/
+DAILY_WORK/text_project/fitted_models_text.pickle
+DAILY_WORK/text_project/full_dataset_emotions_text.csv
