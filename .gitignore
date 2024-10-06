@@ -4,4 +4,9 @@ DataBases/
 Models/
 .vscode/
 DAILY_WORK/project_audio/dataset/
-DAILY_WORK/project_audio/dataset_new/
+DAILY_WORK/project_audio/prepared_dataset/
+DAILY_WORK/project_audio/test_files/
+DAILY_WORK/project_audio/model_mfcc.keras
+DAILY_WORK/project_audio/model_stft.keras
+DAILY_WORK/project_audio/model_stft.keras
+DAILY_WORK/project_audio/OHE_mfcc.joblib
