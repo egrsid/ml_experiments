@@ -2,3 +2,4 @@
 *.jpg
 DataBases/
 Models/
+__pycache__/
